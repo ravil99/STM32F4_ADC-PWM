@@ -10,6 +10,7 @@ I was using:
 Firsly I initialized clocks, pins, Analog-to-digital-converter ADC1 (channels 10 & 11), timers TIM 2 and TIM3 and put their certain channels into Pulse Width Modulation (PWM) mode.
 Then I set interrupt for end of conversion of ADC1 channels 10 & 11.
 I control PWM pulse width with 2 potentiometer, one for LED and one for servo.
+
 Used software:
 - IAR Embedded Workbench for ARM 8.50
 - Visual Studio Code
