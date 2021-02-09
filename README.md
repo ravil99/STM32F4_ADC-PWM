@@ -3,7 +3,6 @@ This is one of my university projects made by me in december 2020.
 I was using: 
 - STM32 Nucleo F401RE development board
 - SG90 servo
-- LED
 - breadboard
 - 2 potentiometers (10K)
 - some wires, of course. 
@@ -21,4 +20,5 @@ Used languages:
 I have recorded DEMO of this project. You can check it out here: https://drive.google.com/drive/folders/1FfKEP1Rm9snuZUlXgEyhaxt0T2RKnT61?usp=sharing
 
 Also i have added algorithms for main and interrupt handler functions. Their names are "ALG_maim.jpg" and "ALG_ADC1_IRQHandler.jpg".
-Unfortunately some algorithms and comments in the code are in Russian, but i will translate them into English in future.
+Unfortunately some algorithms and comments in the code are in Russian, but i will translate them into English in future. In addition I will film full video with this project, including not only 1 potentiometer and LED, but with second potentiometer and servo, and I will draw schematic file for this project.
+Hope you will enjoy it!
