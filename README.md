@@ -6,6 +6,7 @@ I was using:
 - breadboard
 - 2 potentiometers (10K)
 - some wires, of course. 
+
 Firsly I initialized clocks, pins, Analog-to-digital-converter ADC1 (channels 10 & 11), timers TIM 2 and TIM3 and put their certain channels into Pulse Width Modulation (PWM) mode.
 Then I set interrupt for end of conversion of ADC1 channels 10 & 11.
 I control PWM pulse width with 2 potentiometer, one for LED and one for servo.
