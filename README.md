@@ -13,6 +13,7 @@ I control PWM pulse width with 2 potentiometer, one for LED and one for servo.
 Used software:
 - IAR Embedded Workbench for ARM 8.50
 - Visual Studio Code
+
 Used languages:
 - C
 
