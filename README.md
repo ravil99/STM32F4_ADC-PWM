@@ -21,4 +21,5 @@ I have recorded DEMO of this project. You can check it out here: https://drive.g
 
 Also i have added algorithms for main and interrupt handler functions. Their names are "ALG_maim.jpg" and "ALG_ADC1_IRQHandler.jpg".
 Unfortunately some algorithms and comments in the code are in Russian, but i will translate them into English in future. In addition I will film full video with this project, including not only 1 potentiometer and LED, but with second potentiometer and servo, and I will draw schematic file for this project.
+
 Hope you will enjoy it!
